@@ -13,7 +13,6 @@
 ```
 npm install pug
 ```
-
 1. correr pug
 
 ```
