@@ -1,4 +1,4 @@
-. # Ejemplo simple de pug
+# Ejemplo simple de pug
 
 
 - Demuestra incluir componentes
@@ -13,7 +13,8 @@
 ```
 npm install pug
 ```
-1. correr pug
+
+3. correr pug
 
 ```
 pug --watch *.pug
